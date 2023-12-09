@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j0de 
 - 💞️ Working in cyber deception
-- 📫 How to reach me discord - j0de#0001
+- 📫 How to reach me discord - j0de
 - Projects here are hobbies!
 - Learning JS deobfuscation plz help
 
